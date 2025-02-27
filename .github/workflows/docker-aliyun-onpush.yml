@@ -1,4 +1,4 @@
-name: Alibaba Cloud Registry Docker Image CI
+name: Alibaba Cloud Registry Docker Image CI.
 
 on:
   push:
